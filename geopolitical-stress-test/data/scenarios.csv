@@ -1,0 +1,6 @@
+scenario_id,name,kind,country,loss_pct,start_month,duration_months,description
+S1,Stop export dalla Cina,supply,Cina,90,2,3,Restrizioni all'export di componenti e magneti per 3 mesi
+S2,Chiusura del Mar Rosso,supply,Cina,35,2,4,Le navi Asia-Europa fanno il giro dell'Africa: meno merce arriva in tempo
+S2,Chiusura del Mar Rosso,supply,Vietnam,35,2,4,Le navi Asia-Europa fanno il giro dell'Africa: meno merce arriva in tempo
+S3,Stop forniture dal Marocco,supply,Marocco,100,2,2,Scioperi o disordini bloccano porti e dogane per 2 mesi
+S4,Crisi della domanda tedesca,demand,Germania,50,2,6,I clienti tedeschi dimezzano gli ordini per 6 mesi
