@@ -1,5 +1,0 @@
-scenario_id,scenario,min_revenue_pct,worst_month,months_in_difficulty,revenue_lost_meur,revenue_lost_pct,main_bottleneck,back_to_normal
-S4,Crisi della domanda tedesca,80.0,2,6,12.0,10.0,Domanda,Mese 8
-S1,Stop export dalla Cina,19.0,4,2,9.3,7.8,Magneti,Mese 5
-S3,Stop forniture dal Marocco,60.0,3,1,4.0,3.3,Cablaggi,Mese 4
-S2,Chiusura del Mar Rosso,81.0,5,1,1.9,1.6,Elettronica,Mese 6
