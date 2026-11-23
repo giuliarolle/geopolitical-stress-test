@@ -1,0 +1,5 @@
+scenario_id,scenario,min_revenue_pct,worst_month,months_in_difficulty,revenue_lost_meur,revenue_lost_pct,main_bottleneck,back_to_normal
+D1,Controlli cinesi sull'export di materiali critici,32.0,5,3,52.0,17.3,Magneti,Mese 8
+D2,Interruzione delle forniture da Taiwan,60.0,5,3,25.0,8.3,Elettronica,Mese 7
+D3,Ritardo degli ordini governativi,82.0,2,4,18.0,6.0,Domanda,Mese 6
+D4,Blocco logistico in Polonia,70.0,3,1,7.5,2.5,Carpenteria,Mese 4

@@ -1,0 +1,3 @@
+parameter,value,description
+monthly_revenue_meur,10,Ricavi mensili in condizioni normali (milioni di euro)
+horizon_months,12,Durata della simulazione in mesi

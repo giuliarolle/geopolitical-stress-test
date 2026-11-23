@@ -1,0 +1,7 @@
+component,description,inventory_months,alt_lead_time_months,alt_capacity_pct
+Semiconduttori GaN,Amplificatori a nitruro di gallio per radar,2,9,30
+Ottiche infrarosse,Lenti e finestre al germanio per sensori,2,8,40
+Magneti,Magneti a terre rare per attuatori e antenne,2,12,25
+Tungsteno,Leghe di tungsteno per schermature e componenti,3,6,50
+Elettronica,Schede di controllo ed elaborazione,1,5,50
+Carpenteria,Strutture e involucri,0.5,2,90

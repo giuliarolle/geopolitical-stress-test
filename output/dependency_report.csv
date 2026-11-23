@@ -1,0 +1,6 @@
+component,countries,top_country,top_share_pct,hhi,inventory_months,alt_lead_time_months,uncovered_months
+Magneti,2,Cina,90,0.82,1.5,9.0,7.5
+Cablaggi,2,Marocco,70,0.58,1.0,2.0,1.0
+Carpenteria,2,Italia,70,0.58,0.5,1.0,0.5
+Elettronica,3,Cina,60,0.45,1.0,4.0,3.0
+Motori,3,Germania,40,0.34,1.0,3.0,2.0

@@ -1,0 +1,5 @@
+scenario_id,name,kind,country,loss_pct,start_month,duration_months,description
+D1,Controlli cinesi sull'export di materiali critici,supply,Cina,80,2,6,Licenze di export molto ridotte per gallio germanio terre rare e tungsteno
+D2,Interruzione delle forniture da Taiwan,supply,Taiwan,100,2,6,Spedizioni di elettronica da Taiwan bloccate per 6 mesi (scenario ipotetico)
+D3,Ritardo degli ordini governativi,demand,Regno Unito,60,2,4,Un ritardo nei contratti riduce gli ordini del cliente principale
+D4,Blocco logistico in Polonia,supply,Polonia,100,2,2,Interruzione dei trasporti verso lo stabilimento per 2 mesi

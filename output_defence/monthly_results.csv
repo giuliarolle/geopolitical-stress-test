@@ -1,0 +1,49 @@
+scenario_id,scenario,month,revenue_pct,production_pct,demand_pct,bottleneck
+D1,Controlli cinesi sull'export di materiali critici,1,100.0,100.0,100.0,-
+D1,Controlli cinesi sull'export di materiali critici,2,100.0,100.0,100.0,-
+D1,Controlli cinesi sull'export di materiali critici,3,100.0,100.0,100.0,-
+D1,Controlli cinesi sull'export di materiali critici,4,96.0,96.0,100.0,Magneti
+D1,Controlli cinesi sull'export di materiali critici,5,32.0,32.0,100.0,Magneti
+D1,Controlli cinesi sull'export di materiali critici,6,32.0,32.0,100.0,Magneti
+D1,Controlli cinesi sull'export di materiali critici,7,32.0,32.0,100.0,Magneti
+D1,Controlli cinesi sull'export di materiali critici,8,100.0,100.0,100.0,-
+D1,Controlli cinesi sull'export di materiali critici,9,100.0,100.0,100.0,-
+D1,Controlli cinesi sull'export di materiali critici,10,100.0,100.0,100.0,-
+D1,Controlli cinesi sull'export di materiali critici,11,100.0,100.0,100.0,-
+D1,Controlli cinesi sull'export di materiali critici,12,100.0,100.0,100.0,-
+D2,Interruzione delle forniture da Taiwan,1,100.0,100.0,100.0,-
+D2,Interruzione delle forniture da Taiwan,2,100.0,100.0,100.0,-
+D2,Interruzione delle forniture da Taiwan,3,100.0,100.0,100.0,-
+D2,Interruzione delle forniture da Taiwan,4,80.0,80.0,100.0,Elettronica
+D2,Interruzione delle forniture da Taiwan,5,60.0,60.0,100.0,Elettronica
+D2,Interruzione delle forniture da Taiwan,6,60.0,60.0,100.0,Elettronica
+D2,Interruzione delle forniture da Taiwan,7,100.0,100.0,100.0,-
+D2,Interruzione delle forniture da Taiwan,8,100.0,100.0,100.0,-
+D2,Interruzione delle forniture da Taiwan,9,100.0,100.0,100.0,-
+D2,Interruzione delle forniture da Taiwan,10,100.0,100.0,100.0,-
+D2,Interruzione delle forniture da Taiwan,11,100.0,100.0,100.0,-
+D2,Interruzione delle forniture da Taiwan,12,100.0,100.0,100.0,-
+D3,Ritardo degli ordini governativi,1,100.0,100.0,100.0,-
+D3,Ritardo degli ordini governativi,2,82.0,100.0,82.0,Domanda
+D3,Ritardo degli ordini governativi,3,82.0,100.0,82.0,Domanda
+D3,Ritardo degli ordini governativi,4,82.0,100.0,82.0,Domanda
+D3,Ritardo degli ordini governativi,5,82.0,100.0,82.0,Domanda
+D3,Ritardo degli ordini governativi,6,100.0,100.0,100.0,-
+D3,Ritardo degli ordini governativi,7,100.0,100.0,100.0,-
+D3,Ritardo degli ordini governativi,8,100.0,100.0,100.0,-
+D3,Ritardo degli ordini governativi,9,100.0,100.0,100.0,-
+D3,Ritardo degli ordini governativi,10,100.0,100.0,100.0,-
+D3,Ritardo degli ordini governativi,11,100.0,100.0,100.0,-
+D3,Ritardo degli ordini governativi,12,100.0,100.0,100.0,-
+D4,Blocco logistico in Polonia,1,100.0,100.0,100.0,-
+D4,Blocco logistico in Polonia,2,100.0,100.0,100.0,-
+D4,Blocco logistico in Polonia,3,70.0,70.0,100.0,Carpenteria
+D4,Blocco logistico in Polonia,4,100.0,100.0,100.0,-
+D4,Blocco logistico in Polonia,5,100.0,100.0,100.0,-
+D4,Blocco logistico in Polonia,6,100.0,100.0,100.0,-
+D4,Blocco logistico in Polonia,7,100.0,100.0,100.0,-
+D4,Blocco logistico in Polonia,8,100.0,100.0,100.0,-
+D4,Blocco logistico in Polonia,9,100.0,100.0,100.0,-
+D4,Blocco logistico in Polonia,10,100.0,100.0,100.0,-
+D4,Blocco logistico in Polonia,11,100.0,100.0,100.0,-
+D4,Blocco logistico in Polonia,12,100.0,100.0,100.0,-
