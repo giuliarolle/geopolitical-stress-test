@@ -6,8 +6,6 @@ A differenza di un'analisi a punteggi, qui non si assegna un voto di rischio ai 
 
 ![Ricavi mensili dopo uno shock](output/revenue_chart.png)
 
-## Lo scenario (fittizio)
-
 Un produttore italiano di macchinari, **inventato**, con ricavi normali di 10 milioni di euro al mese.
 
 **Cosa compra** (quota di ogni componente per paese, in `data/sources.csv`):
@@ -103,6 +101,8 @@ python stress_test.py --data data_defence --out output_defence
 | D2 Interruzione delle forniture da Taiwan (6 mesi) | 60% | 25,0 M€ (8,3%) | Elettronica | mese 7 |
 | D3 Ritardo degli ordini governativi (UK, 4 mesi) | 82% | 18,0 M€ (6,0%) | Domanda | mese 6 |
 | D4 Blocco logistico in Polonia (2 mesi) | 70% | 7,5 M€ (2,5%) | Carpenteria | mese 4 |
+
+![Ricavi persi al crescere delle scorte, caso difesa](output_defence/stock_sensitivity.png)
 
 - I **magneti** sono il punto più fragile: 85% dalla Cina, 12 mesi per qualificare un alternativo, **10 mesi scoperti** anche con le scorte. Il blocco cinese costa più del doppio dello stop taiwanese.
 - Le scorte aiutano molto: nel caso D1 le perdite scendono da 52 a 27 M€ con un mese di scorte in più e a 2 M€ con due, e a zero con tre. Contro il ritardo degli ordini (D3) non servono a nulla.
